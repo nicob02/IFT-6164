@@ -1,0 +1,17 @@
+__pycache__/
+
+venv/
+.env/
+
+data/
+datasets/
+
+*.pth
+*.pt
+*.ckpt
+
+# macOS
+.DS_Store
+
+# experiment outputs
+results/
